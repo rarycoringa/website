@@ -10,7 +10,6 @@ function App() {
       <AppGlobalStyle/>
       <NavbarSection/>
       <HomeSection/>
-      {/* <Main/> */}
       <ParticleWavesBackground/>
     </Fragment>
   );
